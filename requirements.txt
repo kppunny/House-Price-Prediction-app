@@ -3,6 +3,7 @@ numpy
 pandas
 joblib
 scikit-learn
+xgboost
 geopandas
 shapely
 pyproj
