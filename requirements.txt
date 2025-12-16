@@ -1,9 +1,10 @@
 streamlit
 numpy
 pandas
+joblib
+scikit-learn
 geopandas
 shapely
 pyproj
 fiona
 geopy
-joblib
